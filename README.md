@@ -1,7 +1,9 @@
 # wirelesspasswd.ps1
 powershell script to extract saved wireless passwords in a windows machine  
 
-Run `powershell.exe -ExecutionPolicy Bypass -f wirelesspasswd.ps1`
+Run ```
+powershell.exe -ExecutionPolicy Bypass -f wirelesspasswd.ps1
+```
 
 ### Base64 Encoded
 ```
